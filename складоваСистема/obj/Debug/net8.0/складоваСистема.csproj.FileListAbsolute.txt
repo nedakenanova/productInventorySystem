@@ -1,0 +1,4 @@
+C:\Users\nedak\Desktop\c#\складоваСистема\складоваСистема\obj\Debug\net8.0\складоваСистема.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedak\Desktop\c#\складоваСистема\складоваСистема\obj\Debug\net8.0\складоваСистема.AssemblyInfoInputs.cache
+C:\Users\nedak\Desktop\c#\складоваСистема\складоваСистема\obj\Debug\net8.0\складоваСистема.AssemblyInfo.cs
+C:\Users\nedak\Desktop\c#\складоваСистема\складоваСистема\obj\Debug\net8.0\складоваСистема.csproj.CoreCompileInputs.cache

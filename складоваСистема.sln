@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "складоваСистема", "складоваСистема\складоваСистема.csproj", "{9FBD922C-6A1C-4737-BF6B-7136CA3D680C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBD922C-6A1C-4737-BF6B-7136CA3D680C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBD922C-6A1C-4737-BF6B-7136CA3D680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBD922C-6A1C-4737-BF6B-7136CA3D680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBD922C-6A1C-4737-BF6B-7136CA3D680C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E0C606-7508-427A-8A22-0A553F5D4FC6}
+	EndGlobalSection
+EndGlobal
